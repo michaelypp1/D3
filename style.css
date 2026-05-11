@@ -1,13 +1,11 @@
 body {
   margin: 0;
   background: #05060a;
-  color: white;
-  font-family: Arial, sans-serif;
+  overflow: hidden;
 }
 
 #game {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+  width: 800px;
+  height: 600px;
+  margin: 40px auto;
 }
